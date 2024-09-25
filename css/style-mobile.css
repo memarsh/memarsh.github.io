@@ -42,6 +42,8 @@
 		font-size: 1.6em;
 	}
 
+/* Tables */
+
 	table {
 		width: 100%;
 	}
@@ -52,6 +54,7 @@
 
 			table.default tbody tr {
 				border-bottom: solid 1px #82b440;
+				display: inline-block;
 			}
 
 			table.default td {
